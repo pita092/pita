@@ -1,3 +1,0 @@
-require("ui.terminal.terminal")
-
-
